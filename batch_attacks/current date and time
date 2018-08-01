@@ -1,0 +1,7 @@
+current date and time
+
+@echo off 
+
+echo Here is the current date and time %date% %time%
+
+goto x

@@ -1,0 +1,5 @@
+deleting an autorun
+
+ATTRIB Autorun.inf -H -S -R.
+
+del Autorun.inf.

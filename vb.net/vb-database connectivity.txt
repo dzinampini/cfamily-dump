@@ -1,0 +1,180 @@
+Imports System.Data.OleDb
+
+Public Class Form1
+
+    Dim myConnection As OleDbConnection
+    Dim myConnection1 As OleDbConnection
+
+    Dim ds As DataSet
+    Dim adapter As OleDbDataAdapter
+
+
+
+
+
+
+
+    Dim insert As OleDbCommand
+    Dim delet As OleDbCommand
+    Dim editt As OleDbCommand
+    Dim countthem As OleDbCommand
+
+
+
+    Dim fname As String
+    Dim surname As String
+    Dim sex As String
+    Dim i As Integer
+    Dim inc As Integer
+    Dim MaxRows As Integer
+
+
+
+    Private Sub ButtonAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonAdd.Click
+
+        fname = nametext.Text()
+        surname = surnametext.Text()
+        sex = sextext.Text()
+
+        myConnection = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Public\Documents\Inclass.accdb")
+
+        myConnection.Open()
+        insert = New OleDbCommand("INSERT INTO members (fname, surname, sex) VALUES ('" + fname + "', '" + surname + "', '" + sex + "')", myConnection)
+
+        insert.ExecuteNonQuery()
+        myConnection.Close()
+        myConnection.Dispose()
+
+        MsgBox("Record successfully added")
+
+    End Sub
+
+    Private Sub Delete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Delete.Click
+
+
+        Dim cb As New OleDbCommandBuilder(adapter)
+
+        ds.Tables("adapteridentifier").Rows(inc).Delete() 'delete from the dataset only
+        MaxRows = MaxRows - 1
+
+        inc = 0
+        adapter.Update(ds, "adapteridentifier")  'this part delete from the database now
+        NavigateRecords()                           'that function which navigate our records
+
+    End Sub
+
+    Private Sub Edit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Edit.Click
+
+        Dim cb As New OleDbCommandBuilder(adapter)
+
+        ds.Tables("adapteridentifier").Rows(inc).Item(1) = nametext.Text
+        ds.Tables("adapteridentifier").Rows(inc).Item(2) = surnametext.Text
+
+        adapter.Update(ds, "adapteridentifier")
+
+        MsgBox("Data updated")
+
+    End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Private Sub ButtonView_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonView.Click
+
+        myConnection = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Public\Documents\Inclass.accdb")
+        ds = New DataSet()
+
+        myConnection.Open()
+        adapter = New OleDbDataAdapter("SELECT * FROM members", myConnection)
+        adapter.Fill(ds, "adapteridentifier")
+
+
+        myConnection.Close()
+
+        nametext.Text = ds.Tables("adapteridentifier").Rows(0).Item("fname")
+        surnametext.Text = ds.Tables("adapteridentifier").Rows(0).Item("surname")
+        sextext.Text = ds.Tables("adapteridentifier").Rows(0).Item("sex")
+
+    End Sub
+
+
+
+    Private Sub ButtonCount_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonCount.Click
+
+    End Sub
+
+
+    Private Sub NavigateRecords()
+
+        nametext.Text = ds.Tables("adapteridentifier").Rows(inc).Item("fname")
+        surnametext.Text = ds.Tables("adapteridentifier").Rows(inc).Item("surname")
+        sextext.Text = ds.Tables("adapteridentifier").Rows(inc).Item("sex")
+
+    End Sub
+
+    Private Sub ButtonNext_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonNext.Click
+        Try
+
+        
+        If inc <> MaxRows - 1 Then
+
+            inc = inc + 1
+
+            NavigateRecords()
+
+        Else
+
+            MsgBox("No More Rows")
+
+            End If
+
+        Catch ex As IndexOutOfRangeException
+            MsgBox("This is the last record")
+
+        End Try
+    End Sub
+
+    Private Sub ButtonBack_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonBack.Click
+        If inc > 0 Then
+
+            inc = inc - 1
+
+            NavigateRecords()
+
+        Else
+
+            MsgBox("First Record")
+
+        End If
+    End Sub
+
+    Private Sub Buttonlast_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Buttonlast.Click
+        If inc <> MaxRows - 1 Then
+
+            inc = MaxRows - 1
+
+            NavigateRecords()
+
+        End If
+    End Sub
+
+    Private Sub Buttonfirst_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Buttonfirst.Click
+        If inc <> 0 Then
+
+            inc = 0
+
+            NavigateRecords()
+
+        End If
+    End Sub
+End Class
+

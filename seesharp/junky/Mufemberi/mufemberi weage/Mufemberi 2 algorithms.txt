@@ -1,0 +1,10 @@
+Mufemberi 2 algorithms
+
+int lastdigit = last digit of a user's phone number
+int step2 = lastdigit*2
+int step3 = step2+5
+int step4 = step3*50
+int step4 = step4 + 1764;
+int step5 = enter birthyear;
+int step6 = step4-step5
+now you see three digits the last digit is the last number of phone number and the following numbers represent your age 

@@ -1,0 +1,34 @@
+Batch code syntax
+
+call // used to call another batch file that already exists eg) call c:\batchfile.bat
+
+echo // used to display information and commands on the screen/prevent them from being displayed.
+@echo off //no message will be displayed // good because the user will not press exit button to stop execution of code
+@echo on //cause all commands ina batch file to be displayed // but i think if you dont specify echo i think it will 				just display
+
+for // used to select specific set of files and run commands on each of them 
+ for (variable) 
+ in(set of file) 
+ do (commands)
+eg) for (%%F) in(*.txt) do del("%%F")
+
+goto // used as in swith statement // but here its specifically to repeat a code since there are no loop statements
+eg) :begin
+	//coode to execute
+	goto x
+
+if //executes an instruction provided a condition is met
+	if exist C: \myfile.txt  (copy C:\myfile.txt D:\myfiles.txt)
+
+	else echo myfile.txt does not exist
+
+Rem //used to create comments 
+	it is an ignoresd section of atch files
+
+md //make foledr
+cd //change folder
+	eg) md a //make folder a on the desktop on desktop
+
+
+
+	save as .bat

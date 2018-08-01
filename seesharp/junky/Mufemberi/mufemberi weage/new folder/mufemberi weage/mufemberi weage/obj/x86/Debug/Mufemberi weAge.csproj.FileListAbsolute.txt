@@ -1,0 +1,17 @@
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.pdb
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.pdb
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.exe.manifest
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.application
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.exe.manifest
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.application
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.exe
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.pdb
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.exe.manifest
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.application
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.exe
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\bin\Debug\Mufemberi weAge.pdb
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.exe.manifest
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\Mufemberi\Mufemberi weAge\New folder\Mufemberi weAge\Mufemberi weAge\obj\x86\Debug\Mufemberi weAge.application

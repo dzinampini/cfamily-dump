@@ -1,0 +1,11 @@
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\bin\Debug\Mufemberi.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\bin\Debug\Mufemberi.pdb
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.pdb
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\bin\Debug\Mufemberi.exe.manifest
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\bin\Debug\Mufemberi.application
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.exe.manifest
+c:\users\mpini\documents\visual studio 2010\Projects\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.application
+C:\Users\Mpini\Documents\SoftWeb Inc\softwares\Mufemberi\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.exe
+C:\Users\Mpini\Documents\SoftWeb Inc\softwares\Mufemberi\Mufemberi\Mufemberi\obj\x86\Debug\Mufemberi.pdb

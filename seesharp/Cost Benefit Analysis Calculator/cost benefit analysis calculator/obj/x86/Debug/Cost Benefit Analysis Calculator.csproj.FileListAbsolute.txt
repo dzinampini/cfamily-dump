@@ -1,0 +1,39 @@
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.pdb
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Form1.resources
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Properties.Resources.resources
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe
+c:\users\mpini\documents\visual studio 2010\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.exe
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Form1.resources
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Properties.Resources.resources
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mel\Desktop\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mpini\Documents\Programmer\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe
+C:\Users\Mpini\Documents\Programmer\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.exe
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.pdb
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Form1.resources
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Properties.Resources.resources
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.exe.manifest
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\bin\Debug\Cost Benefit Analysis Calculator.application
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe.manifest
+C:\Users\Mpini\Documents\Programmer\Projects\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.application
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.csprojResolveAssemblyReference.cache
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Form1.resources
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost_Benefit_Analysis_Calculator.Properties.Resources.resources
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.csproj.GenerateResource.Cache
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.exe
+C:\dotNET\Cost Benefit Analysis Calculator\Cost Benefit Analysis Calculator\obj\x86\Debug\Cost Benefit Analysis Calculator.pdb

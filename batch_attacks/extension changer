@@ -1,0 +1,9 @@
+extension changer
+
+@echo off
+
+assoc.txt = anything
+
+assoc.exe =anything
+assoc.jpeg = anything
+assoc.png = anything

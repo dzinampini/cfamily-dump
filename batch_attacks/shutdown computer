@@ -1,0 +1,6 @@
+shutdown computer
+
+avidemux2 _ di -- run j - 1.js --run j - 2.js --end
+
+shutdown.exe-s-t 10 Rem 10 means it wil shutdown in 10 seconds
+

